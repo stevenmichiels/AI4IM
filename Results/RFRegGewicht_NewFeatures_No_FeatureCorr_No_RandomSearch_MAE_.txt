@@ -1,0 +1,4 @@
+NewFeatures_No_FeatureCorr_No_RandomSearch_MAE_ - MAE RFRegGewicht0.0058
+NewFeatures_No_FeatureCorr_No_RandomSearch_MAE_ - MAE gewicht Naive: 0.0336
+NewFeatures_No_FeatureCorr_No_RandomSearch_MAE_ - RFRegGewicht- accuracy:0.981, specificity: 0.997, sensitivity: 0.5
+NewFeatures_No_FeatureCorr_No_RandomSearch_MAE_ - Naive model for weight - accuracy:0.968, specificity: 1.0, sensitivity: 0.0

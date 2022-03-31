@@ -1,0 +1,4 @@
+NewFeatures_Yes_FeatureCorr_Yes_RandomSearch_MAE_ - MAE RFRegOpening0.0039
+NewFeatures_Yes_FeatureCorr_Yes_RandomSearch_MAE_ - MAE opening Naive: 0.027
+NewFeatures_Yes_FeatureCorr_Yes_RandomSearch_MAE_ - RFRegOpening- accuracy:0.984, specificity: 0.993, sensitivity: 0.85
+NewFeatures_Yes_FeatureCorr_Yes_RandomSearch_MAE_ - Naive model for opening - accuracy:0.939, specificity: 1.0, sensitivity: 0.0

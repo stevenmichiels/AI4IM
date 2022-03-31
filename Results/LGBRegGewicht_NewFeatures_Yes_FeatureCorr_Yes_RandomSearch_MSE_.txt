@@ -1,0 +1,4 @@
+NewFeatures_Yes_FeatureCorr_Yes_RandomSearch_MSE_ - MAE LGBRegGewicht: 0.0012
+NewFeatures_Yes_FeatureCorr_Yes_RandomSearch_MSE_ - MAE gewicht Naive: 0.0336
+NewFeatures_Yes_FeatureCorr_Yes_RandomSearch_MSE_ - LGBRegGewicht- accuracy:0.997, specificity: 0.997, sensitivity: 1.0
+NewFeatures_Yes_FeatureCorr_Yes_RandomSearch_MSE_ - Naive model for weight - accuracy:0.968, specificity: 1.0, sensitivity: 0.0

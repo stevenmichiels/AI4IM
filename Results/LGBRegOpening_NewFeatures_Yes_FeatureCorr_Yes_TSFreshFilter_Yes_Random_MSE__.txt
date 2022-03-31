@@ -1,0 +1,4 @@
+NewFeatures_Yes_FeatureCorr_Yes_TSFreshFilter_Yes_Random_MSE__ - MAE LGBRegOpening: 0.0017
+NewFeatures_Yes_FeatureCorr_Yes_TSFreshFilter_Yes_Random_MSE__ - MAE opening Naive: 0.027
+NewFeatures_Yes_FeatureCorr_Yes_TSFreshFilter_Yes_Random_MSE__ - LGBRegOpening- accuracy:0.99, specificity: 0.997, sensitivity: 0.9
+NewFeatures_Yes_FeatureCorr_Yes_TSFreshFilter_Yes_Random_MSE__ - Naive model for opening - accuracy:0.939, specificity: 1.0, sensitivity: 0.0

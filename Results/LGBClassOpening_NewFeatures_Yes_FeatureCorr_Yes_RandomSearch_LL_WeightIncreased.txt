@@ -1,0 +1,2 @@
+NewFeatures_Yes_FeatureCorr_Yes_RandomSearch_LL_WeightIncreased - LGBClassOpening- accuracy:0.994, specificity: 1.0, sensitivity: 0.905
+NewFeatures_Yes_FeatureCorr_Yes_RandomSearch_LL_WeightIncreased - Naive model for opening - accuracy:0.939, specificity: 1.0, sensitivity: 0.0

@@ -1,0 +1,4 @@
+NewFeatures_No_FeatureCorr_No_RandomSearch_MAE_ - MAE LGBRegOpening: 0.0054
+NewFeatures_No_FeatureCorr_No_RandomSearch_MAE_ - MAE opening Naive: 0.027
+NewFeatures_No_FeatureCorr_No_RandomSearch_MAE_ - LGBRegOpening- accuracy:0.987, specificity: 0.993, sensitivity: 0.895
+NewFeatures_No_FeatureCorr_No_RandomSearch_MAE_ - Naive model for opening - accuracy:0.939, specificity: 1.0, sensitivity: 0.0

@@ -1,0 +1,2 @@
+NewFeatures_Yes_FeatureCorr_Yes_RandomSearch_LL_WeightIncreased - LGBClassGewicht- accuracy:1.0, specificity: 1.0, sensitivity: 0.905
+NewFeatures_Yes_FeatureCorr_Yes_RandomSearch_LL_WeightIncreased - Naive model for gewicht - accuracy:0.968, specificity: 1.0, sensitivity: 0.0
